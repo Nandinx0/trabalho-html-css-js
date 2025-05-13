@@ -84,7 +84,7 @@ li {
 
 img.hobby {
     display: block;
-    margin: 20px 0 0 60px; /* alinha a imagem com a lista */
+    margin: 20px auto; /* alinha a imagem com a lista */
     width: 100%;
     max-width: 500px;
     height: auto;
